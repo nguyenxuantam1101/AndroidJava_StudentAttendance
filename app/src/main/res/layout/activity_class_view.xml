@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClassView">
+
+    <ImageView
+        android:id="@+id/img_ThongTinKhoaHoc"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/orange" />
+
+    <ImageView
+        android:id="@+id/imgBack"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:paddingTop="17dp"
+        android:src="@drawable/general_back_icon"></ImageView>
+
+    <TextView
+        android:id="@+id/txtV8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_ThongTinKhoaHoc"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Mã lớp học:"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtCodeClass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_ThongTinKhoaHoc"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="22dp"
+        android:layout_toEndOf="@+id/txtV8"
+        android:text="mã"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtV4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtV8"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Điểm Quá Trình:"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_diemQuaTrinh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtCodeClass"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="26dp"
+        android:layout_toEndOf="@+id/txtV4"
+        android:text="0,0"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtV5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtV4"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Số Buổi Điểm Danh:"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_soBuoiDiemDanh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_diemQuaTrinh"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="27dp"
+        android:layout_toEndOf="@+id/txtV5"
+        android:text="0"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txt_a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_diemQuaTrinh"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="27dp"
+        android:layout_toEndOf="@+id/txt_soBuoiDiemDanh"
+        android:text="Buổi"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnAttendance"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_soBuoiDiemDanh"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="29dp"
+        android:background="@drawable/drawable_bg"
+        android:text="Điểm Danh"
+        android:textSize="20sp"
+        android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/btnChiTiet"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_soBuoiDiemDanh"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="29dp"
+        android:layout_toEndOf="@id/btnAttendance"
+        android:background="@drawable/drawable_bg"
+        android:text="Chi Tiết"
+        android:textSize="20sp"
+        android:textStyle="bold"></Button>
+</RelativeLayout>

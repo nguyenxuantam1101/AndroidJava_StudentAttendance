@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-ldpi/center_dialog_background_topleft_topright.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/background.xml" value="0.1565" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/background_border_gray.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/background_menu.xml" value="0.126" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/background_yellow.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/backgrounnd_white.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/drawable_bg.xml" value="0.1475" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/general_back_icon.xml" value="0.2595" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable-xhdpi/general_back_icon_black.xml" value="0.1735" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/background_tham_gia.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/background_title_dialog.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/boder_code.xml" value="0.1815" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/center_dialog_background.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/drawable_bg.xml" value="0.1565" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_account_circle.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_close.xml" value="0.1815" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_menu.xml" value="0.193" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/mail.xml" value="0.1565" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/orange.xml" value="0.1565" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/splash_background.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/drawable/transparent_background.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_account.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_bottom.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_class.xml" value="0.2824074074074074" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_class_view.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_create_class.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_forgot_pass.xml" value="0.11302083333333333" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_gv_class_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_gv_info_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_join_class.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_list_student.xml" value="0.14814814814814814" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_load.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_main_class.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_main_details.xml" value="0.4" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_option_add.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/activity_sv_info_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/content_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/dialog_add_class.xml" value="0.2" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/fragment_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/fragment_bottom_join.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/fragment_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/fragment_forgot_pass.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/fragment_sign_in.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_attendance.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_attendance_code.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_bottom_sheer.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.22794117647058823" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_create_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_delete_class.xml" value="0.24456521739130435" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_edit_class.xml" value="0.1897644927536232" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/layout_join_class.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/layout/test.xml" value="0.16" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/menu/add_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/menu/bottom_menu.xml" value="0.2" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/menu/bottom_navi_menu.xml" value="0.264" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/menu/bottom_navi_menu_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/menu/menu_popup_class.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/2022/HUTECH_Do_An_Java/AppDiemDanh/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_class.xml" value="0.25" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_class_view.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_create_class.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_edit_profile.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_gv_class_view.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_gv_info_class.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_list_student.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_main.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_main_class.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_main_details.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_profile.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/activity_sv_info_class.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/fragment_forgot_pass.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/fragment_sign_in.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/layout_attendance.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/layout_attendance_code.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/layout_edit_class.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/layout/layout_join_class.xml" value="0.2803442028985507" />
+        <entry key="..\:/GitLab/AppDiemDanh/app/src/main/res/menu/menu_popup_class.xml" value="0.29322916666666665" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/drawable/bg_search_view.xml" value="0.1065" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_account.xml" value="0.144" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_class.xml" value="0.16" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_class_view.xml" value="0.4" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_create_class.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_edit_profile.xml" value="0.12360688956433637" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_gv_class_view.xml" value="0.176" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_gv_info_class.xml" value="0.2" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_list_student.xml" value="0.12360688956433637" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_main_class.xml" value="0.23954372623574144" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_main_details.xml" value="0.264" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/layout_attendance.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitLab/StudentAttendance/app/src/main/res/layout/layout_join_class.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
